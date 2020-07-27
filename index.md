@@ -1,7 +1,7 @@
 # AIS3 environment
 
 ## 0727 Afternoon 數位鑑識
-* [https://reurl.cc/z8xZ8k](https://reurl.cc/z8xZ8k)
+* [投影片](https://reurl.cc/z8xZ8k)
 
 
 ## Virtual Machine prepared by AIS3
