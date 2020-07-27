@@ -1,6 +1,6 @@
 # AIS3 environment
 
-### 07/27 Afternoon 數位鑑識
+### 07/27 Afternoon CST 16:30 (數位鑑識)
 * [投影片](https://reurl.cc/z8xZ8k)
 
 
